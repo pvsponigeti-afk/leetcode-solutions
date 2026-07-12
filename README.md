@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0412-fizz-buzz) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -44,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
