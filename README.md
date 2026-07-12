@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
