@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0342-power-of-four) |
+| [2235-add-two-integers](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
