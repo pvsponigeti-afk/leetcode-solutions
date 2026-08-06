@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0204-count-primes](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0344-reverse-string](https://github.com/pvsponigeti-afk/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
